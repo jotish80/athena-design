@@ -25,7 +25,7 @@ const GetDesign = () => {
             />
             <div class="">
               <button
-                style={{ marginLeft: "35px", width: "130px" }}
+                style={{ marginLeft: "12px", width: "130px" }}
                 class="btn search"
               >
                 Get Started
