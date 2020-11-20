@@ -1,0 +1,40 @@
+.item1 {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  box-shadow: 5px 5px 5px 5px #eafdf5;
+}
+.text {
+  padding: 10px;
+}
+.item1:hover {
+  background-image: linear-gradient(90deg, #0ebbdc, #1edcb6);
+  color: #fff;
+}
+.fixtedcolor {
+  background-image: linear-gradient(90deg, #0ebbdc, #1edcb6);
+  color: #fff;
+}
+
+.item2:hover {
+  background-image: linear-gradient(90deg, #0ebbdc, #1edcb6);
+  color: #fff;
+}
+.item2 {
+  margin-right: 5px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  padding: 10px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 5px 5px 5px #eafdf5;
+}
+.archivstyle {
+  padding: 100px 0px;
+}

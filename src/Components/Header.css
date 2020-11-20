@@ -1,0 +1,12 @@
+h1,
+h2 {
+  font-family: "Yeseva One", cursive;
+  font-weight: 500;
+}
+.btn-curve {
+  background-image: linear-gradient(128deg, #2af598, #009efd 100%);
+  padding: 10px 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  color: #fff;
+}

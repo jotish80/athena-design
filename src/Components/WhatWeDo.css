@@ -1,0 +1,16 @@
+.custom-div:hover {
+  border-radius: 80px 0px;
+  background: #fff;
+  box-shadow: 0px 30px 50px rgba(32, 168, 111, 0.1);
+  transition: 0.2s ease;
+  cursor: pointer;
+}
+.custom-div-one {
+  border-radius: 80px 0px;
+  background: #fff;
+  box-shadow: 0px 30px 50px rgba(32, 168, 111, 0.1);
+  cursor: pointer;
+}
+.what-bg {
+  background-image: url(../images/Path.png);
+}
